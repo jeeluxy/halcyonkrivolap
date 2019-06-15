@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+div.header {
+	background: url(http://wallpapers-image.ru/1920x1080/nature/wallpapers/nature-images-1920x1080-19.jpg);
+	background-position: center;
+	width: 100%;
+	height: 500px;
+	margin: 0px auto;
+}
+
+.logo-block {
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	height: 200px;
+	width: 1200px;
+	top: 150px;
+}
+
+.logo-text {
+	position: relative;
+	color: #455F58;
+	font-family: 'Abel', sans-serif;
+	font-size: 48px; 
+	top: 70px;
+}
+
+.logo-subtext {
+	position: relative;
+	color: #61857B;
+	font-family: 'Abel', sans-serif;
+	font-size: 20px; 
+	top: 65px;
+}
+
+.logo-button {
+	position: relative;
+	display: block;
+	background: #61857B;
+	margin: auto;
+	width: 255px;
+	height: 40px;
+	border: 0px solid #455F58;
+	border-radius: 30px;
+	top: 74px;
+	font-family: 'Abel', sans-serif;
+	font-size: 18px; 
+	color: #fff;
+	cursor: pointer;
+}
